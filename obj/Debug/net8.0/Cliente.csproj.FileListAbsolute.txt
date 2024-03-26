@@ -1,0 +1,14 @@
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfoInputs.cache
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfo.cs
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Projetos\Outbox\Cliente\bin\Debug\net8.0\Cliente.exe
+C:\Projetos\Outbox\Cliente\bin\Debug\net8.0\Cliente.deps.json
+C:\Projetos\Outbox\Cliente\bin\Debug\net8.0\Cliente.runtimeconfig.json
+C:\Projetos\Outbox\Cliente\bin\Debug\net8.0\Cliente.dll
+C:\Projetos\Outbox\Cliente\bin\Debug\net8.0\Cliente.pdb
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.dll
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\refint\Cliente.dll
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.pdb
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\Cliente.genruntimeconfig.cache
+C:\Projetos\Outbox\Cliente\obj\Debug\net8.0\ref\Cliente.dll
